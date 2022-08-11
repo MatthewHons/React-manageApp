@@ -1,4 +1,4 @@
-# This is a project for helping me mastering react
+# This is a project for helping me mastering react, typescript and next
 
 # Getting Started with Create React App
 
