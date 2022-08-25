@@ -1,3 +1,5 @@
+## View deployment : https://gentle-frangollo-07431b.netlify.app/
+
 # This is a project for helping me mastering react, typescript and next
 
 # Getting Started with Create React App
